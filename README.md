@@ -1,6 +1,6 @@
 # lab1
 
-A new Flutter project.
+Bai tap dau tien
 
 ## Getting Started
 
